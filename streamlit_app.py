@@ -1,8 +1,8 @@
 import streamlit
 streamlit.title('My parents new healthy Diner')
 
-streamlit.title('Breakfast Menu')
+streamlit.header('Breakfast Menu')
 
-Idli Vada
-Masala Dosa
-Girmit
+streamlit.text('Idli Vada')
+streamlit.text('Masala Dosa')
+streamlit.text('Girmit')
